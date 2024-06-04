@@ -11,3 +11,4 @@ YuriSavitski/YuriSavitski is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 Добавление в файл READ для урока №1 по GitHab
+и ещё
