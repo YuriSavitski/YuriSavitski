@@ -12,3 +12,5 @@ You can click the Preview link to take a look at your changes.
 --->
 Добавление в файл READ для урока №1 по GitHab
 и ещё
+
+Изменение в ветке Урока 2
